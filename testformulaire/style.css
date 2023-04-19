@@ -1,0 +1,4 @@
+img {
+width: 250px;
+clip-path: polygon(0 1%, 100% 1%, 100% 80%, 0% 100%);
+    }

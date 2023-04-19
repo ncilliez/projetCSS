@@ -1,0 +1,26 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.noir{
+  background-color: black;
+  width: 100%;
+  height: 100px;
+}
+
+.bloc{
+ height: 200px; 
+}
+.grand{
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+  position: absolute;
+}
+.petit{
+  width: 100px;
+  height: 150px;
+  background-color: blue;
+  position: absolute;
+}
